@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/lotusiti/static/css/main.f610ce20.css",
-    "main.js": "/lotusiti/static/js/main.784d7819.js",
+    "main.css": "/lotusiti/static/css/main.dfc58bf0.css",
+    "main.js": "/lotusiti/static/js/main.3605f655.js",
     "static/js/453.1cc05f2d.chunk.js": "/lotusiti/static/js/453.1cc05f2d.chunk.js",
     "static/media/watermark.png": "/lotusiti/static/media/watermark.51e01483d672e7561674.png",
     "static/media/farmer.png": "/lotusiti/static/media/farmer.dfaccb008568b2e5ea4a.png",
     "static/media/leaves.png": "/lotusiti/static/media/leaves.f08e120f6367d7956501.png",
     "index.html": "/lotusiti/index.html",
-    "main.f610ce20.css.map": "/lotusiti/static/css/main.f610ce20.css.map",
-    "main.784d7819.js.map": "/lotusiti/static/js/main.784d7819.js.map",
+    "main.dfc58bf0.css.map": "/lotusiti/static/css/main.dfc58bf0.css.map",
+    "main.3605f655.js.map": "/lotusiti/static/js/main.3605f655.js.map",
     "453.1cc05f2d.chunk.js.map": "/lotusiti/static/js/453.1cc05f2d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f610ce20.css",
-    "static/js/main.784d7819.js"
+    "static/css/main.dfc58bf0.css",
+    "static/js/main.3605f655.js"
   ]
 }
