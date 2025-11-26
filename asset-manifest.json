@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.75bbc949.css",
-    "main.js": "./static/js/main.bbadf281.js",
-    "static/js/453.d9ee81d0.chunk.js": "./static/js/453.d9ee81d0.chunk.js",
+    "main.js": "./static/js/main.77b40e75.js",
+    "static/js/453.1cc05f2d.chunk.js": "./static/js/453.1cc05f2d.chunk.js",
     "static/media/mbocw-logo-left1.png": "./static/media/mbocw-logo-left1.318d49d8f8b3dadcb5a2.png",
     "static/media/bocw_logo_right.png": "./static/media/bocw_logo_right.2b5b209dc7499fdc1d32.png",
     "static/media/watermark.png": "./static/media/watermark.51e01483d672e7561674.png",
@@ -10,11 +10,11 @@
     "static/media/leaves.png": "./static/media/leaves.f08e120f6367d7956501.png",
     "index.html": "./index.html",
     "main.75bbc949.css.map": "./static/css/main.75bbc949.css.map",
-    "main.bbadf281.js.map": "./static/js/main.bbadf281.js.map",
-    "453.d9ee81d0.chunk.js.map": "./static/js/453.d9ee81d0.chunk.js.map"
+    "main.77b40e75.js.map": "./static/js/main.77b40e75.js.map",
+    "453.1cc05f2d.chunk.js.map": "./static/js/453.1cc05f2d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.75bbc949.css",
-    "static/js/main.bbadf281.js"
+    "static/js/main.77b40e75.js"
   ]
 }
