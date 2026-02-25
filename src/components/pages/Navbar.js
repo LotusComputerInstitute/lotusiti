@@ -1,18 +1,18 @@
 import React from "react";
 import { Link, useNavigate } from "react-router-dom";
 import "bootstrap/dist/css/bootstrap.min.css";
-import { useAuth } from "../auth/AuthContext";
+// import { useAuth } from "../auth/AuthContext";
 import Sidebar from "./Sidebar"
 import { useState } from "react";
 
 const Navbar = () => {
   const navigate = useNavigate();
-  const { logout } = useAuth();
+  // const { logout } = useAuth();
   const [sidebarOpen, setSidebarOpen] = useState(false);
 
 
   const handleLogout = () => {
-    logout();
+    // logout();
     // navigate("/");
   };
 
@@ -89,14 +89,14 @@ const Navbar = () => {
             </li>
 
             {/* Logout Button */}
-            <li className="nav-item">
+            {/* <li className="nav-item">
               <button
                 onClick={handleLogout}
                 className="btn  btn-danger fw-semibold px-4 py-2 rounded-pill nav-btn"
               >
                 🚪 Logout
               </button>
-            </li>
+            </li> */}
 
           </ul>
         </div>
