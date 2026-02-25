@@ -105,13 +105,13 @@ const KamgarForm = () => {
 
                
                 <div className="col-md-5">
-               {/*   <GenerateKamgarId details={formData} /> */}
+                 <GenerateKamgarId details={formData} />
                 </div>
 
             <div className="d-flex gap-3 mt-5 mb-3 justify-content-center">
-            {/*  <button className="btn btn-primary btn-lg" onClick={()=>downloadFrontSide(formData.name)}>
+             <button className="btn btn-primary btn-lg" onClick={()=>downloadFrontSide(formData.name)}>
                 Download
-              </button> */}
+              </button>
               <button className="btn btn-danger btn-lg" onClick={handleReset}>
                 Reset All
               </button>
